@@ -5,8 +5,8 @@
 // @description  Make chain timer bigger for better visibility
 // @author       Annosz [2896714]
 // @match        https://www.torn.com/*
-// @updateURL    https://github.com/annosz/torn-userscripts/raw/master/larger_chain_timer.user.js
-// @downloadURL  https://github.com/annosz/torn-userscripts/raw/master/larger_chain_timer.user.js
+// @updateURL    https://github.com/Annosz/torn-userscripts/raw/main/larger_chain_timer.user.js
+// @downloadURL  https://github.com/Annosz/torn-userscripts/raw/main/larger_chain_timer.user.js
 // @require      http://code.jquery.com/jquery-latest.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=torn.com
 // @grant        none
