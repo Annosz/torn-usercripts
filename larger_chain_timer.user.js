@@ -12,7 +12,7 @@
 // @grant        GM_addStyle
 // ==/UserScript==
 
-waitForKeyElements(".bar-timeleft___B9RGV", actionFunction);
+waitForKeyElements(".speed___dFP2B", actionFunction);
 
 function actionFunction(jNode) {
     'use strict';
