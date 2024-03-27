@@ -9,7 +9,7 @@
 // @downloadURL  https://github.com/Annosz/torn-userscripts/raw/main/larger_chain_timer.user.js
 // @require      https://gist.github.com/raw/2625891/waitForKeyElements.js
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=torn.com
-// @grant        GM_addStyle
+// @grant        none
 // ==/UserScript==
 
 waitForKeyElements(".speed___dFP2B", actionFunction);
